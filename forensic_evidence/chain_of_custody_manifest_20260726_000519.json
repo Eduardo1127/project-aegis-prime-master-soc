@@ -1,0 +1,17 @@
+{
+  "case_id": "INCIDENT_20260726_000519",
+  "investigator": "Eduardo Mex Rodriguez (EMR)",
+  "timestamp": "2026-07-26 00:05:19",
+  "artifacts_collected": [
+    {
+      "type": "Network Sockets",
+      "filename": "network_connections_20260726_000519.txt",
+      "sha256": "72c975e642cae8ce3c3f6c07cfcf099fdda061fb49dbd5eefbcd58d7e964fc3d"
+    },
+    {
+      "type": "Process Tree",
+      "filename": "running_processes_20260726_000519.txt",
+      "sha256": "5bc310c207f38733a3c9fbce9bf9f050466318dbc4b8083ae935a7701140024e"
+    }
+  ]
+}
